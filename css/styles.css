@@ -52,48 +52,45 @@ img {
   float: right;
 }
 .sidebar {
-  width: 30%;
-  float: right;
-  background-color: yellow;
-}
-.box-1 {
-  width: 50%;
-  margin: 12px;
-  margin-bottom: 10px;
-  border: 2px solid green;
-  border-width: 1px;
-  padding: 4px;
-  background-color: aquamarine;
-  box-sizing: border-box;
-}
-.box-2 {
-  width: 50%;
-  margin: 12px;
-  margin-bottom: 10px;
-  border: 2px solid green;
-  border-width: 1px;
-  padding: 4px;
-  background-color: aquamarine;
-  box-sizing: border-box;
-}
-.column {
-  width: 300px;
+  width: 33%;
+  height: 500px;
   float: left;
+  background-color: rgba(174, 221, 190, 0.979);
+
 }
-.description {
+.col-4 {
+  width: 200px;
+  height: fit-content;
+  float: right;
+  width: 100px
+}
+.p {
   color: rgb(9, 0, 128);
+  font-size: small;
 }
-.about {
-  color: blue;
+.card-title {
+  color: black;
+  font-size: large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: normal;
+}
+.card-text {
+  color: black;
+  font-size: medium;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: normal;
+}
+.card-body {
+  color:  azure;
+}
+.card {
+  color: azure;
 }
 .highlight2 {
   color: lime;
 }
 .highlight3 {
-  color: orangered
-}
-.projects {
-  color: blueviolet;
+  color: orange;
 }
 .centered-image {
   margin: auto;
@@ -103,3 +100,22 @@ img {
 .jumbotron {
   height: 100px ;
 }
+.#column1{
+  float: left;
+  width: 50%;
+}
+.#column2{
+  float: right;
+  width: 33%;
+}
+.float-container {
+  border: 3px solid #fff;
+  padding: 20px;
+}
+
+.float-child {
+  width: 50%;
+  float: left;
+  padding: 20px;
+  border: 2px green;
+}  
