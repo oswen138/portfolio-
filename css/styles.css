@@ -1,0 +1,105 @@
+h1 {
+  color: rgb(0, 225, 255);
+  text-align: center;
+  font-size: 2em;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+h3 {
+  font-style: italic;
+  text-align: none;
+}
+
+h4 {
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: medium;
+  text-align: none;
+  color: aquamarine;
+}
+
+h5 {
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: medium;
+  text-align: none;
+  color: aquamarine;
+}
+
+p {
+  font-family: sans-serif;
+  margin-left: 1em
+}
+
+ul.no_bullet {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  line-height: 11px;
+}
+li.fish{
+  background: url('../../images/fish\ bullet.JPG')no-repeat;
+  height: 30px;
+  padding-left: 40px;
+  padding-top: 10px;
+}
+img {
+  float: right;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+.box-1 {
+  width: 50%;
+  margin: 12px;
+  margin-bottom: 10px;
+  border: 2px solid green;
+  border-width: 1px;
+  padding: 4px;
+  background-color: aquamarine;
+  box-sizing: border-box;
+}
+.box-2 {
+  width: 50%;
+  margin: 12px;
+  margin-bottom: 10px;
+  border: 2px solid green;
+  border-width: 1px;
+  padding: 4px;
+  background-color: aquamarine;
+  box-sizing: border-box;
+}
+.column {
+  width: 300px;
+  float: left;
+}
+.description {
+  color: rgb(9, 0, 128);
+}
+.about {
+  color: blue;
+}
+.highlight2 {
+  color: lime;
+}
+.highlight3 {
+  color: orangered
+}
+.projects {
+  color: blueviolet;
+}
+.centered-image {
+  margin: auto;
+  width: 50%;
+  height: auto;
+}
+.jumbotron {
+  height: 100px ;
+}
