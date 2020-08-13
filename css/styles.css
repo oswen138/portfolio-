@@ -100,15 +100,16 @@ img {
 .jumbotron {
   height: 100px ;
 }
-.#column1{
-  float: left;
-  width: 50%;
-}
-.#column2{
+.column-lg{
   float: right;
-  width: 33%;
+  width: 600%;
+  padding-left: 0px;
 }
-.float-container {
+.column-xl{
+  float: left;
+  width: 200%;
+}
+.container-fluid {
   border: 3px solid #fff;
   padding: 20px;
 }
@@ -119,3 +120,7 @@ img {
   padding: 20px;
   border: 2px green;
 }  
+.column1padding {
+  float: right;
+  padding-left: 100px;
+}
