@@ -3,7 +3,7 @@
 ## By Ophelia Swen
 
 ## Description
-_The purpose of this code is to display a landing page for my future work portfolio_using the HTML and CSS
+The purpose of this code is to display a landing page for my future work portfolio using the HTML and CSS
 knowledge gained from the first week of lessons. 
 
 ## Setup/Installation Requirements
@@ -17,9 +17,7 @@ knowledge gained from the first week of lessons.
 No known bugs exist yet
 
 ## Technologies Used
-*HTML
-*CSS
-*Bootstrap
+HTML, CSS, Bootstrap
 
 ### License
 Copyright (c) 2020 **_Ophelia Swen_**
