@@ -11,30 +11,21 @@ h2 {
 
 h3 {
   font-style: italic;
-  text-align: none;
+  text-align: center;
 }
 
 h4 {
   font-style: italic;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: medium;
   text-align: none;
   color: aquamarine;
 }
-
-h5 {
-  font-style: italic;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: medium;
-  text-align: none;
-  color: aquamarine;
-}
-
 p {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   margin-left: 1em
 }
-
 ul.no_bullet {
   list-style-type: none;
   padding: 0;
@@ -46,33 +37,27 @@ ul.no_bullet {
 img {
   float: right;
 }
-.sidebar {
-  width: 33%;
-  height: 500px;
-  float: left;
-  background-color: rgba(174, 221, 190, 0.979);
-
-}
-.col-4 {
-  width: 200px;
-  height: fit-content;
-  float: right;
-  width: 100px
-}
 .p {
   color: rgb(9, 0, 128);
   font-size: small;
 }
+.highlight3 {
+  color: rgb(80, 142, 192);
+}
+.highlight2 {
+  color: rgb(20, 128, 128)
+}
+.highlight1 {
+  color: rgb(11, 238, 238)
+}
 .card-title {
   color: black;
   font-size: large;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-style: normal;
 }
 .card-text {
   color: black;
   font-size: medium;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-style: normal;
 }
 .card-body {
@@ -80,12 +65,6 @@ img {
 }
 .card {
   color: azure;
-}
-.highlight2 {
-  color: lime;
-}
-.highlight3 {
-  color: orange;
 }
 .centered-image {
   margin: auto;
@@ -97,28 +76,4 @@ img {
   background-image: url('img/header.JPG'); 
   background-size: cover; 
   background-repeat: no-repeat; 
-}
-.column-sm{
-  float: right;
-  width: 80%;
-  padding-left: 0px;
-}
-.column-md{
-  float: right;
-  width: 50%;
-}
-.container-fluid {
-  border: 3px solid #fff;
-  padding: 20px;
-}
-
-.float-child {
-  width: 50%;
-  float: left;
-  padding: 20px;
-  border: 2px green;
-}  
-.sidebar {
-  float: left;
-  color: forestgreen ;
 }
