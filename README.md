@@ -1,29 +1,26 @@
-# portfolio-page
-#### _Portfolio page, 08/08/20_
+# Portfolio Landing Page edited 08/13/2020
 
-#### By _**Ophelia Swen**_
+## By Ophelia Swen
 
 ## Description
-
-_Purpose of this code is to display a landing page for future work portfolio_
+_The purpose of this code is to display a landing page for my future work portfolio_using the HTML and CSS
+knowledge gained from the first week of lessons. 
 
 ## Setup/Installation Requirements
-
-* Clone this repository
-* _Open simple HTTP server in directory_
-* _Open browser of choice to host_
+* Open your internet browser of choice.
+* Use existing Github account or create one. 
+* Go to the account of the user with the repository for the project. 
+* You can either fork or clone repository to your desktop.
+* Use template as is or add your own css and html. 
 
 ## Known Bugs
-
-_Not yet_
+No known bugs exist yet
 
 ## Technologies Used
-
-_HTML_
-_CSS_
-_Bootstrap_
+*HTML
+*CSS
+*Bootstrap
 
 ### License
-
 Copyright (c) 2020 **_Ophelia Swen_**
 This software is licensed under the MIT license. 
