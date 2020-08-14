@@ -102,16 +102,15 @@ img {
   background-image: url('img/header.JPG'); 
   background-size: cover; 
   background-repeat: no-repeat; 
-  }  
 }
-.column-lg{
+.column-sm{
   float: right;
-  width: 600%;
+  width: 80%;
   padding-left: 0px;
 }
-.column-xl{
-  float: left;
-  width: 200%;
+.column-md{
+  float: right;
+  width: 50%;
 }
 .container-fluid {
   border: 3px solid #fff;
@@ -124,10 +123,6 @@ img {
   padding: 20px;
   border: 2px green;
 }  
-.column1padding {
-  float: right;
-  padding-left: 100px;
-}
 .sidebar {
   float: left;
   color: forestgreen ;
