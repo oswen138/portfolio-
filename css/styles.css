@@ -99,6 +99,10 @@ img {
 }
 .jumbotron {
   height: 100px ;
+  background-image: url('img/header.JPG'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  }  
 }
 .column-lg{
   float: right;
@@ -123,4 +127,8 @@ img {
 .column1padding {
   float: right;
   padding-left: 100px;
+}
+.sidebar {
+  float: left;
+  color: forestgreen ;
 }
