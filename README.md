@@ -4,7 +4,7 @@
 
 ## Description
 The purpose of this code is to display a landing page for my future work portfolio using the HTML and CSS
-knowledge gained from the first week of lessons. Access link to site by clicking [here] (https://github.com/oswen138/portfolio-page.git). 
+knowledge gained from the first week of lessons. Access link to site by clicking [here](https://github.com/oswen138/portfolio-page.git). 
 
 
 ## Setup/Installation Requirements
