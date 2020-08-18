@@ -4,15 +4,14 @@
 
 ## Description
 The purpose of this code is to display a landing page for my future work portfolio using the HTML and CSS
-knowledge gained from the first week of lessons. Access link to site by clicking [here](https://github.com/oswen138/portfolio-page.git). 
+knowledge gained from the first week of lessons. Access link to gh pages by clicking [here](https://oswen138.github.io/portfolio-page/). 
 
 
 ## Setup/Installation Requirements
-* Open your internet browser of choice.
-* Use existing Github account or create one. 
-* Go to the account of the user with the repository for the project. 
-* You can either fork or clone repository to your desktop.
-* Use template as is or add your own css and html. 
+* Clone existing repository on your local machine. 
+* Clone git linkable library with command $git clone https://github.com/oswen138/portfolio-page.git
+* You can add target directory name after the link.  
+* Alternatively you can download zip files or checkout with SVN using the web URL. 
 
 ## Known Bugs
 No known bugs exist yet
